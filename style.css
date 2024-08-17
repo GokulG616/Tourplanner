@@ -1,0 +1,79 @@
+*{
+    margin: 0%;
+}
+.head{
+    display: flex;
+    backface-visibility: visib;
+    position: fixed;
+    width: 0%;
+}
+.logo{
+    width: 100px;
+    margin-left: 47%;
+
+}
+.select{
+    display: flex;
+}
+#icon{
+    list-style-type: none;
+    margin: 30px;
+    font-family: cursive;
+}
+.dash{
+    text-decoration: none;
+}
+.image2{
+    width: 100%;
+}
+#heading1{
+    font-family: "Raleway", sans-serif;
+}
+#heading2{
+    font-family: "Grey Qo", cursive;
+}
+.mainheading{
+    margin-top: -600px;
+    margin-left: 800px;
+}
+.button1{
+    border-radius: 20px;
+    background-color: rgb(105, 195, 45);
+    margin-left: 160px;
+    margin-top: 90px;
+    box-sizing: 1200px;
+}
+.secondhead{
+    margin-top: 460px;
+    margin-left: 600px;
+    font-family: "Quicksand", sans-serif;
+}
+.kerala{
+    margin-left: 50px;
+}
+.keralabutton{
+    margin-left: 100px;
+    background-color: darkgray;
+}
+.packagesbutton{
+        margin-left: 700px;
+        border-radius: 40px;
+        background-color: rgb(101, 208, 48);
+}
+.fivehead{
+    margin-left: 540px;
+}
+.secondlast{
+    display: flex;
+}
+.youtube{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.gridd{
+    display: grid;
+    grid-template-columns: 130px 250px 80px;
+    grid-template-rows: 200px 200px 200px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
